@@ -1,0 +1,42 @@
+Literature and overlap review, 14 October 2026
+
+Search domains: international AI verification; compute governance and treaty verification; attestation supplier dependencies; jurisdiction and sovereignty; quorum/general-trust structures; foreign-policy network coercion; notary diversity. Targeted searches included:
+- compute governance verification international agreements privacy preserving hardware AI attestation coalition
+- AI verification quorum sovereignty
+- compute verification veto international
+- threshold attestation jurisdiction AI governance
+- AI verification dependency NVIDIA
+- AI verification NVIDIA revocation
+- Do Not Trust in Numbers General Trust
+- AI verification Boolean coalition
+- AI verification withdrawal threshold
+- attestation crossed jurisdictions
+
+Closest antecedents:
+1. Alpos and Cachin (SSS 2023 / ePrint 2022/1767): already implements Boolean access structures and argues for correlated-failure models. This invalidates any novelty claim for replacing simple thresholds with Boolean trust rules. The paper explicitly credits this work.
+2. Malkhi and Reiter (1998), Alpos et al. (2024): prior availability/integrity and general/asymmetric trust. Our separation lemma is elementary; we do not claim a new consensus construction.
+3. Wasil et al. (2024), Harack et al. (2025), Baker et al. (2025): prior international AI verification, multi-layer and multi-jurisdiction designs, vendor distrust, and approval allocation. Harack PDF page 67 and Baker PDF page 20 were checked for close mechanisms. Our contribution is the bounded combination of role audit, separate capture/denial maps, failure witness and U.S. partnership application.
+4. RFC 9334: already separates verification roles. We apply, rather than invent, these roles.
+5. OVERT 1.0 ATT-5.3: already proposes notary independence across ownership, hosting and jurisdiction. We do not claim discovery of notary diversification.
+6. Farrell and Newman (2019): network concentration/jurisdiction as a source of state power. Our policy hypothesis is an application to certification dependence; it is not evidence of actual coercion by NVIDIA or the U.S.
+
+Topic selection:
+Rejected broad proposal to invent hardware AI verification: mature prior research and inadequate local hardware resources.
+Rejected LLM compliance-country-bias study: directly overlapping prior 2026 ACL research and weaker fit to this policy venue without a large new model study.
+Selected a policy paper with original reproducible audit and conditional formal analysis: Who Gets to Certify the AI Stack?
+
+Previous-paper overlap screening:
+Titles and introductory/abstract text in supplied PDFs were screened; complete text was extracted for targeted mechanism checks. Several PDFs are venue variants of the same study; this is not a count of distinct contributions.
+Closest personal prior works:
+- Continuity by Permission: temporal alignment of recovery permissions across cable, satellite, and power trade. Current paper studies false-approval versus denial authority, Boolean access rules, and AI certification. No shared case, source data, code, theorem, or figure reused. Broad dependency/continuity framing is related and acknowledged here.
+- From Agent Scores to Collective Capability Contracts: joint task deliverability, hidden shared resources, matching/leases. Current paper addresses certificate truth and availability, not task allocation.
+- Contingent Exposure Routing: financial market impacts of failover; distinct objective and observations.
+- Archived Prices and Affordable Redundancy: medical price benchmarks/applicant redundancy; no reuse of data or quantitative results.
+- Coherent Multi-Intervention Replay: coupling geometry/matching polytopes; no reuse of mechanisms.
+Other papers concern numeric wire fidelity, memory, quotas, delegation, caching, contracts, bandits, medical archives, crawler parsing, robot interruption, compliance identification, trade reallocation, rankings, developer-document evidence, compensation and historical timber accounts. No duplicate topic/case located in screened material.
+
+Novelty boundary:
+No reviewed source implemented this exact combination of pinned GPU-attestation role audit, separate authority threat maps, rule/witness compiler, joint-threat grid analysis, and U.S. full-stack export partnership analysis. This is a targeted positioning finding, not a systematic-review completeness claim or guarantee that the combination has never appeared. Foundational mathematics and primitives are established. No patentability claim is made.
+
+Market study boundary:
+Public NVIDIA integration options and terms show a relevant deployed product class and distinguish commercial/managed options. They establish plausible use context, not willingness-to-pay, market size, adoption, or independently available competing evidence paths. No invented market figures or customer-validation claims appear in the paper.

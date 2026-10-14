@@ -1,0 +1,9 @@
+.venv/
+work/
+__pycache__/
+.pytest_cache/
+*.aux
+*.log
+*.out
+*.synctex.gz
+.DS_Store

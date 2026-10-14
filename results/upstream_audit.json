@@ -1,0 +1,81 @@
+{
+  "pin": "858ada9a17f58c482f578414ea2455498fa51e17",
+  "source_files": [
+    {
+      "path": "guest_tools/attestation_sdk/src/nv_attestation_sdk/utils/config.py",
+      "sha256": "b3fa71b3e137275dcd3c5493cd0f824968ceef3551aa8a0778242efbb4ec0790",
+      "lines": 29
+    },
+    {
+      "path": "guest_tools/attestation_sdk/src/nv_attestation_sdk/gpu/attest_gpu_local.py",
+      "sha256": "6ee4466aa522ef5e2c999707651d95d0867ffa6d4fd65382e7ddf0503bc70f41",
+      "lines": 78
+    },
+    {
+      "path": "guest_tools/attestation_sdk/src/nv_attestation_sdk/gpu/attest_gpu_remote.py",
+      "sha256": "954484f5cbe954dd453cc39d722014dd43a8103f687131171bf3c3de6b7bde63",
+      "lines": 139
+    },
+    {
+      "path": "guest_tools/gpu_verifiers/local_gpu_verifier/src/verifier/config.py",
+      "sha256": "28badaabe33db45aa861c6f1431eb4645b62e1306f7ada2dd8d65e69dfbc25c2",
+      "lines": 651
+    },
+    {
+      "path": "guest_tools/gpu_verifiers/local_gpu_verifier/src/verifier/cc_admin.py",
+      "sha256": "807745a058cf90ca3f0dab6d050195626f3cf29045036a5e1e22c2f63f50041f",
+      "lines": 683
+    },
+    {
+      "path": "guest_tools/gpu_verifiers/local_gpu_verifier/src/verifier/cc_admin_utils.py",
+      "sha256": "348aab675d1071568741e7dc238b6937b0eb60be94d6f287646138b2f246ebe1",
+      "lines": 616
+    },
+    {
+      "path": "guest_tools/gpu_verifiers/local_gpu_verifier/src/verifier/rim/__init__.py",
+      "sha256": "77108616c8121075dfd2180dd36eb26d02bfb29ce634473d5b29902fe1d3d115",
+      "lines": 547
+    }
+  ],
+  "endpoint_defaults": [
+    {
+      "environment_variable": "NV_RIM_URL",
+      "default": "https://rim.attestation.nvidia.com/v1/rim/",
+      "line": 7,
+      "path": "guest_tools/attestation_sdk/src/nv_attestation_sdk/utils/config.py"
+    },
+    {
+      "environment_variable": "NV_OCSP_URL",
+      "default": "https://ocsp.ndis.nvidia.com/",
+      "line": 8,
+      "path": "guest_tools/attestation_sdk/src/nv_attestation_sdk/utils/config.py"
+    },
+    {
+      "environment_variable": "NV_NRAS_GPU_URL",
+      "default": "https://nras.attestation.nvidia.com/v3/attest/gpu",
+      "line": 9,
+      "path": "guest_tools/attestation_sdk/src/nv_attestation_sdk/utils/config.py"
+    },
+    {
+      "environment_variable": "NV_NRAS_NVSWITCH_URL",
+      "default": "https://nras.attestation.nvidia.com/v3/attest/switch",
+      "line": 12,
+      "path": "guest_tools/attestation_sdk/src/nv_attestation_sdk/utils/config.py"
+    }
+  ],
+  "root_certificates": [
+    {
+      "path": "guest_tools/gpu_verifiers/local_gpu_verifier/src/verifier/certs/verifier_RIM_root.pem",
+      "subject": "CN=NVIDIA CoRIM signing Root CA,O=NVIDIA,C=US",
+      "issuer": "CN=NVIDIA CoRIM signing Root CA,O=NVIDIA,C=US",
+      "sha256": "afe8d01ab79b451fc6401a00bd8d3cba283e67339bd902e14bb41171eacb99d1"
+    },
+    {
+      "path": "guest_tools/gpu_verifiers/local_gpu_verifier/src/verifier/certs/verifier_device_root.pem",
+      "subject": "O=NVIDIA,CN=NVIDIA Device Identity CA",
+      "issuer": "O=NVIDIA,CN=NVIDIA Device Identity CA",
+      "sha256": "6e6e91e84068cb7de2c715ca73d6df168a16b23d96a895b42e553b297a471bfc"
+    }
+  ],
+  "scope": "Static source extraction, plus separate mocked-boundary tests; no GPU attestation or service outage observed."
+}

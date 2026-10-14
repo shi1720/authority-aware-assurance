@@ -1,0 +1,7 @@
+{
+  "claim": "A fixed hypothetical compliance predicate for one subject and evidence epoch",
+  "scope": "Constructed alternative threats: one supplier capture OR one jurisdiction withdrawal; correctly authenticated approvals assumed",
+  "paths": ["A1", "A2", "B1", "B2"],
+  "bad": [["A1", "A2"], ["B1", "B2"]],
+  "live": [["A1", "B1"], ["A2", "B2"]]
+}

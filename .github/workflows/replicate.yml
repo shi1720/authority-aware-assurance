@@ -1,0 +1,20 @@
+name: Reproduce research checks
+on: [push, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.lock
+      - run: pip install -r requirements.lock
+      - run: python src/fetch_upstream.py work/nvtrust
+      - run: python src/audit_upstream.py work/nvtrust
+      - run: NVTRUST_SOURCE="$PWD/work/nvtrust" python -m pytest tests -q
+      - run: python src/experiments.py
+      - run: git diff --exit-code -- results/summary.json results/synthetic_cases.json results/grid_budgets.json results/upstream_audit.json

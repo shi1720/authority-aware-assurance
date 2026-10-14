@@ -1,0 +1,41 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}\usepackage{newtxtext,newtxmath,microtype,fancyhdr}
+\usepackage[colorlinks=true,urlcolor=blue!45!black]{hyperref}\usepackage{xcolor}
+\setlength{\parindent}{0pt}\setlength{\parskip}{7pt}
+\pagestyle{fancy}\fancyhf{}\fancyfoot[C]{\small\thepage}\renewcommand{\headrulewidth}{0pt}
+\hypersetup{pdftitle={AWC 2027 Proposal: Who Gets to Certify the AI Stack?},pdfauthor={Shivam Gupta},pdfsubject={Two-page conference proposal}}
+\begin{document}
+\begin{center}
+{\Large\bfseries Who Gets to Certify the AI Stack?}\\[5pt]
+{\large Authority-Aware Verification and U.S. Alliance Strategy}\\[9pt]
+Shivam Gupta\\
+Independent Researcher, India and United Arab Emirates\\
+\href{mailto:shivam1720406@gmail.com}{shivam1720406@gmail.com}
+\end{center}
+\smallskip
+\textbf{Proposed presentation:} America in the World Consortium Young Scholars Conference, \emph{The New Frontier: How Emerging Technologies Shape U.S. Foreign Policy}, February 25--26, 2027.
+
+\textbf{Question and argument.} When the United States exports an AI stack, who gets to certify that it remains acceptable? The July 2025 American AI Exports initiative promotes full-stack technology packages for allies and partners. Yet locally operated infrastructure can still depend on external organizations for device endorsements, authenticated reference values, certificate status, or recognition of appraisal results. Verification is therefore a prospective site of international authority as well as a means of building confidence. This paper asks when a partnership can reject fabricated compliance approvals while continuing to certify compliant activity after an authority withdraws.
+
+The central argument is that verification independence is claim-specific and mechanism-specific. The power to manufacture an acceptable false approval differs from the power to prevent a valid approval. A supplier compromise and a jurisdictional withdrawal may affect different groups of verification paths. Counting organizations, regions, or signatures obscures those relationships. An agreement should specify which actors can affect which predicate, and whether its resilience commitment covers alternative disruptions or simultaneous ones.
+
+\textbf{Research design.} The paper combines a public implementation audit with a finite institutional-design model and reproducible computation. The audit pins NVIDIA's public \texttt{nvtrust} repository to an exact revision, records seven source-file hashes, extracts four configured service defaults and two root certificates, and compares local, remote, and customer-managed attestation arrangements. Eleven tests execute upstream utility functions with mocked transport or signed synthetic certificate-status responses. They examine retrieval, withdrawal, status, and nonce handling; they do not claim to test deployed GPU security. The evidence distinguishes local appraisal from independent control over its inputs without imputing observed political coercion.
+
+The model records two families: approval coalitions that an allowed capture can falsify, and honest approval coalitions guaranteed to survive a declared disruption. An exact compiler returns either a monotone acceptance rule or a concrete contradiction: a coalition whose approval must be accepted for continuity but rejected for integrity. That witness makes institutional disagreement reviewable. The underlying access-structure logic is established; the contribution is its operational application to the allocation of verification authority in U.S. AI partnerships.
+
+\newpage
+\textbf{Findings.} In a constructed arrangement with two suppliers across two jurisdictions, no simple signature threshold can reject both captured supplier rows while accepting either surviving jurisdiction column. Nonnegative weighted voting also fails, as shown by an exact inequality contradiction. A Boolean rule accepting a complete surviving column succeeds under the alternative-threat assumptions. This is a constructive result about the declared architecture, rather than an estimate of real-world failure prevalence.
+
+The guarantee changes sharply when compromise and withdrawal occur together. The four-path arrangement becomes infeasible for every monotone rule. Adding a third independent supplier restores feasibility under the specified single-capture, single-withdrawal model. A common upstream authority capable of falsifying the shared predicate can instead make all voting rules infeasible. Replicating final verifiers cannot repair that dependency. Whether a real supplier holds such power must be established separately; the public-code audit identifies questions and inputs, not a hardware compromise capability.
+
+The implementation agrees with an independent enumeration of monotone Boolean functions across 7,371 small specifications and 11,502 compiled signer-set decisions. Two hundred structured grid, budget, and threat-mode scenarios match the analytical conditions. A fixed synthetic stress corpus of 2,000 dependency assignments contains 60 arrangements feasible for general rules but not scalar thresholds; 17 of those also defeat weighted rules. All 19 software tests pass. These checks establish reproducibility and the limits of the model, not an observed effect on alliance behavior.
+
+\textbf{Contribution to U.S. foreign policy.} The paper connects the economics of network dependence to the concrete institutional choices inside AI partnerships. It proposes an assurance schedule accompanying a technology partnership: a shared predicate, evidence and policy bindings, separate capture and denial maps, an explicit simultaneous-threat commitment, and procedures for membership changes, attribution, and review. Security revocation remains necessary; the question is how to allocate and govern its scope while making agreed partnership commitments credible. A local verifier can provide meaningful agency over appraisal while retaining supplier dependence elsewhere. Neither total autonomy nor a generic sovereignty label captures that division of roles.
+
+The presentation will use one software case and a four-path visual example to show why a technically redundant arrangement can remain institutionally brittle. It will distinguish conclusions about the architecture from the untested hypothesis that reviewable assurance commitments could strengthen partner confidence in an American AI stack. The work also offers a bounded commercial application in procurement and assurance review: software that maintains dependency evidence and generates acceptance rules or failure witnesses. It does not assert validated demand or patentability.
+
+\textbf{Selected references.} Farrell and Newman, ``Weaponized Interdependence,'' \emph{International Security} 44(1), 2019; Wasil et al., \emph{Verification Methods for International AI Agreements}, 2024; Harack et al., \emph{Verification for International AI Governance}, 2025; Baker et al., \emph{Verifying International Agreements on AI}, 2025; Alpos and Cachin, ``Do Not Trust in Numbers,'' SSS 2023; IETF RFC 9334, 2023.
+
+\textbf{Author and readiness.} Shivam Gupta is an independent researcher and an early-career applied AI engineer and founder, with a B.Tech. in Computer Science and Design from IIIT Delhi. A completed manuscript, reproducible code, and three figures are available. The proposed talk is designed for 12--15 minutes plus discussion. Code and research materials: \url{https://github.com/shi1720/authority-aware-assurance}.
+\end{document}

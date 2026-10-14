@@ -1,0 +1,353 @@
+{
+  "verification": {
+    "cases": 7371,
+    "compiled_decisions_checked": 11502,
+    "mismatches": 0
+  },
+  "grid": [
+    {
+      "vendors": 2,
+      "sites": 2,
+      "n": 4,
+      "general": true,
+      "thresholds": [],
+      "clauses": 2
+    },
+    {
+      "vendors": 2,
+      "sites": 3,
+      "n": 6,
+      "general": true,
+      "thresholds": [
+        4
+      ],
+      "clauses": 3
+    },
+    {
+      "vendors": 2,
+      "sites": 4,
+      "n": 8,
+      "general": true,
+      "thresholds": [
+        5,
+        6
+      ],
+      "clauses": 4
+    },
+    {
+      "vendors": 2,
+      "sites": 5,
+      "n": 10,
+      "general": true,
+      "thresholds": [
+        6,
+        7,
+        8
+      ],
+      "clauses": 5
+    },
+    {
+      "vendors": 3,
+      "sites": 2,
+      "n": 6,
+      "general": true,
+      "thresholds": [
+        3
+      ],
+      "clauses": 2
+    },
+    {
+      "vendors": 3,
+      "sites": 3,
+      "n": 9,
+      "general": true,
+      "thresholds": [
+        4,
+        5,
+        6
+      ],
+      "clauses": 3
+    },
+    {
+      "vendors": 3,
+      "sites": 4,
+      "n": 12,
+      "general": true,
+      "thresholds": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "clauses": 4
+    },
+    {
+      "vendors": 3,
+      "sites": 5,
+      "n": 15,
+      "general": true,
+      "thresholds": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "clauses": 5
+    },
+    {
+      "vendors": 4,
+      "sites": 2,
+      "n": 8,
+      "general": true,
+      "thresholds": [
+        3,
+        4
+      ],
+      "clauses": 2
+    },
+    {
+      "vendors": 4,
+      "sites": 3,
+      "n": 12,
+      "general": true,
+      "thresholds": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "clauses": 3
+    },
+    {
+      "vendors": 4,
+      "sites": 4,
+      "n": 16,
+      "general": true,
+      "thresholds": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "clauses": 4
+    },
+    {
+      "vendors": 4,
+      "sites": 5,
+      "n": 20,
+      "general": true,
+      "thresholds": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "clauses": 5
+    },
+    {
+      "vendors": 5,
+      "sites": 2,
+      "n": 10,
+      "general": true,
+      "thresholds": [
+        3,
+        4,
+        5
+      ],
+      "clauses": 2
+    },
+    {
+      "vendors": 5,
+      "sites": 3,
+      "n": 15,
+      "general": true,
+      "thresholds": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "clauses": 3
+    },
+    {
+      "vendors": 5,
+      "sites": 4,
+      "n": 20,
+      "general": true,
+      "thresholds": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "clauses": 4
+    },
+    {
+      "vendors": 5,
+      "sites": 5,
+      "n": 25,
+      "general": true,
+      "thresholds": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "clauses": 5
+    }
+  ],
+  "random": {
+    "seed": 20261014,
+    "n": 6,
+    "authorities": 5,
+    "samples": 2000,
+    "counts": {
+      "neither": 1939,
+      "general_only": 60,
+      "both": 1
+    },
+    "weighted_feasible_among_general_only": 43
+  },
+  "canonical": {
+    "capture": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "denial": [
+      4,
+      8,
+      4,
+      8
+    ],
+    "bad": [
+      3,
+      12
+    ],
+    "live": [
+      5,
+      10
+    ],
+    "rule": {
+      "feasible": true,
+      "witness": null,
+      "clauses": [
+        5,
+        10
+      ]
+    },
+    "thresholds": [],
+    "cheapest_general": [
+      4,
+      15,
+      {
+        "feasible": true,
+        "witness": null,
+        "clauses": [
+          5,
+          10
+        ]
+      },
+      []
+    ],
+    "weighted_infeasibility_certificate": {
+      "bad_mixture": [
+        [
+          3,
+          "1/2"
+        ],
+        [
+          12,
+          "1/2"
+        ]
+      ],
+      "live_mixture": [
+        [
+          10,
+          "1/2"
+        ],
+        [
+          5,
+          "1/2"
+        ]
+      ],
+      "coordinate_differences": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    "cheapest_threshold": null
+  },
+  "grid_budget_verification": {
+    "cases": 200,
+    "mismatches": 0
+  },
+  "common_authority": {
+    "feasible": false,
+    "witness": {
+      "live": 0,
+      "bad": 15
+    },
+    "clauses": []
+  },
+  "simultaneous_2x2": {
+    "feasible": false,
+    "witness": {
+      "live": 1,
+      "bad": 3
+    },
+    "clauses": []
+  },
+  "simultaneous_3x2": {
+    "feasible": true,
+    "witness": null,
+    "clauses": [
+      5,
+      10,
+      17,
+      20,
+      34,
+      40
+    ]
+  }
+}

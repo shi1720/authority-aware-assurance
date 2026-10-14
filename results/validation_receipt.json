@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-14",
+  "python": "3.12.14",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "tectonic": "0.17.0",
+  "tests_passed": 19,
+  "exhaustive_specifications": {
+    "cases": 7371,
+    "compiled_decisions_checked": 11502,
+    "mismatches": 0
+  },
+  "grid_budget_verification": {
+    "cases": 200,
+    "mismatches": 0
+  },
+  "clean_directory_replication": "All four derived JSON results match exactly; 19 tests pass in copied directory.",
+  "weighted_certificates": "All 17 weighted-infeasible synthetic general-rule cases have exact rational mixture certificates, checked by Fraction arithmetic.",
+  "pdf_visual_review": "16-page manuscript reviewed as full contact sheet with selected full-size pages; two-page proposal reviewed in full. Final conclusion pagination and PDF metadata rechecked.",
+  "scope": "No GPU security experiment, observed coercion, market prevalence estimate, or absolute novelty claim."
+}

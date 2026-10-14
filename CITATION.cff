@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the research manuscript when using this artifact."
+title: "Who Gets to Certify the AI Stack? Authority-Aware Verification and U.S. Alliance Strategy"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+year: 2026
+date-released: 2026-10-14
+url: "https://github.com/shi1720/authority-aware-assurance"
+version: "1.0.0"
+license: MIT

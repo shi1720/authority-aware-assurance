@@ -1,0 +1,2128 @@
+[
+  {
+    "vendors": 2,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      4
+    ]
+  },
+  {
+    "vendors": 2,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6
+    ]
+  },
+  {
+    "vendors": 2,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6
+    ]
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 2,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      3
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 2,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 2,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      4
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      9
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 3,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      3,
+      4
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      3
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 2,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 2,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 2,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 2,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      4
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      16
+    ]
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 4,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      3,
+      4
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 2,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      4,
+      5
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      4
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      10
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 4,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 3,
+    "capture_budget": 4,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      5
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      9
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      9,
+      10
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 4,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 4,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 4,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 4,
+    "capture_budget": 4,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 1,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": [
+      11,
+      12
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 2,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 3,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 1,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 2,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 2,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 3,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 3,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 4,
+    "simultaneous": false,
+    "general_feasible": true,
+    "thresholds": []
+  },
+  {
+    "vendors": 5,
+    "sites": 5,
+    "capture_budget": 4,
+    "denial_budget": 4,
+    "simultaneous": true,
+    "general_feasible": false,
+    "thresholds": []
+  }
+]
