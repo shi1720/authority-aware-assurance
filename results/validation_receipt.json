@@ -15,6 +15,6 @@
   },
   "clean_directory_replication": "All four derived JSON results match exactly; 19 tests pass in copied directory.",
   "weighted_certificates": "All 17 weighted-infeasible synthetic general-rule cases have exact rational mixture certificates, checked by Fraction arithmetic.",
-  "pdf_visual_review": "16-page manuscript reviewed as full contact sheet with selected full-size pages; two-page proposal reviewed in full. Final conclusion pagination and PDF metadata rechecked.",
+  "pdf_visual_review": "15-page manuscript reviewed as full contact sheet with selected full-size pages; two-page proposal reviewed in full. Final conclusion pagination and PDF metadata rechecked.",
   "scope": "No GPU security experiment, observed coercion, market prevalence estimate, or absolute novelty claim."
 }
